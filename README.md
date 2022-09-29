@@ -12,12 +12,16 @@
 <summary> <b> <samp> Projects </samp></b></summary>
 <samp>
  <b><h2>SteamAccountSwitcherCMD</h2></b>
-<a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD"><img src="https://sneaky.pink/steam.png" width="200"/></a>
+<a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD"><img src="https://sneaky.pink/projects/steam.png" width="200"/></a>
 Project: <a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD">Link</a>
   
 <b><h2>Drift86Update</h2></b>
 <a href="https://github.com/MageSneaky/Drift86Update"><img src="https://sneaky.pink/projects/drift86.png" width="200"/></a>
 Project: <a href="https://github.com/MageSneaky/Drift86Update">Link</a>
+
+<b><h2>CatTools</h2></b>
+<a href="https://github.com/MageSneaky/CatTools"><img src="https://sneaky.pink/projects/cattools.png" width="200"/></a>
+Project: <a href="https://github.com/MageSneaky/CatTools">Link</a>
 
 <p align="center">
   <a href="https://sneaky.pink">
