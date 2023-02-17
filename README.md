@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a href="https://sneaky.pink">Alex/MageSneaky</a></b>.
-    <br>I'm a 16 year old retard from <a href="https://sneaky.pink/sweden.jpg">Sweden</a><br>
+    <br>I'm a 17 year old retard from <a href="https://sneaky.pink/sweden.jpg">Sweden</a><br>
 </samp>
   <img src="https://sneaky.pink/henlo.gif" width="200"/>
 </p>
