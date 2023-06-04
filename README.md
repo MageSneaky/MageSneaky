@@ -18,6 +18,10 @@ Project: <a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD">Link</a
 <b><h2>Drift86Update</h2></b>
 <a href="https://github.com/MageSneaky/Drift86Update"><img src="https://sneaky.pink/projects/drift86.png" width="200"/></a>
 Project: <a href="https://github.com/MageSneaky/Drift86Update">Link</a>
+  
+<b><h2>Minecraft Automatic Mod Downloader</h2></b>
+<a href="https://github.com/MageSneaky/Automatic-Mod-Downloader"><img src="https://sneaky.pink/projects/minecraft.png" width="200"/></a>
+Project: <a href="https://github.com/MageSneaky/Automatic-Mod-Downloader">Link</a>
 
 <p align="center">
   <a href="https://sneaky.pink">
