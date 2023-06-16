@@ -15,9 +15,9 @@
 <a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD"><img src="https://sneaky.pink/projects/steam.png" width="200"/></a>
 Project: <a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD">Link</a>
   
-<b><h2>Drift86Update</h2></b>
-<a href="https://github.com/MageSneaky/Drift86Update"><img src="https://sneaky.pink/projects/drift86.png" width="200"/></a>
-Project: <a href="https://github.com/MageSneaky/Drift86Update">Link</a>
+<b><h2>Drift86 Community Updates</h2></b>
+<a href="https://github.com/MageSneaky/Drift86CE"><img src="https://sneaky.pink/projects/drift86.png" width="200"/></a>
+Project: <a href="https://github.com/MageSneaky/Drift86CE">Link</a>
   
 <b><h2>Minecraft Automatic Mod Downloader</h2></b>
 <a href="https://github.com/MageSneaky/Automatic-Mod-Downloader"><img src="https://sneaky.pink/projects/minecraft.png" width="200"/></a>
