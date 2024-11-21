@@ -19,9 +19,9 @@ Project: <a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD">Link</a
 <a href="https://github.com/MageSneaky/Drift86CE"><img src="https://sneaky.pink/projects/drift86.png" width="200"/></a>
 Project: <a href="https://github.com/MageSneaky/Drift86CE">Link</a>
   
-<b><h2>Minecraft Automatic Mod Downloader</h2></b>
-<a href="https://github.com/MageSneaky/Automatic-Mod-Downloader"><img src="https://sneaky.pink/projects/minecraft.png" width="200"/></a>
-Project: <a href="https://github.com/MageSneaky/Automatic-Mod-Downloader">Link</a>
+<b><h2>Pokemon Wordle</h2></b>
+<a href="https://github.com/MageSneaky/pokemon-wordle"><img src="https://sneaky.pink/projects/pokemonwordle.png" width="200"/></a>
+Project: <a href="https://github.com/MageSneaky/pokemon-wordle">Link</a>
 
 <p align="center">
   <a href="https://sneaky.pink">
