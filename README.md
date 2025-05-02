@@ -4,7 +4,7 @@
     Hello there! I'm <b><a href="https://sneaky.pink">Alex/MageSneaky</a></b>.
     <br>I'm a 19 year old retard from <a href="https://images.sneaky.pink/sweden.jpg">Sweden</a><br>
 </samp>
-  <img src="https://sneaky.pink/images/henlo.gif" width="200"/>
+  <img src="https://images.sneaky.pink/henlo.gif" width="200"/>
 </p>
 
 <details align="center">
